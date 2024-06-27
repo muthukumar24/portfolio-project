@@ -5,7 +5,7 @@ function Resume() {
 
     const config = {
         line1: "You can view my Resume",
-        link: '#'
+        link: 'https://muthkumar-resume.tiiny.site'
     }
 
   return (
