@@ -14,6 +14,7 @@ import websiteImg12 from '../assets/UserManagement.png';
 import websiteImg13 from '../assets/MentorStudent.png';
 import websiteImg14 from '../assets/PasswordReset.png';
 import websiteImg15 from '../assets/URLShorteningApp.png';
+import websiteImg16 from '../assets/IMS.png'
 
 function Projects() {
 
@@ -108,6 +109,12 @@ function Projects() {
             image : websiteImg15,
             desc : "URL Shortening Application, Built with MERN stack",
             link : "https://demo-url-shortener-application.netlify.app/"
+        },
+        {
+            id: 16,
+            image : websiteImg16,
+            desc : "Inventory Management System, Built with MERN stack",
+            link : "https://progoods-inventory-management.netlify.app/"
         },
     ]}
 
